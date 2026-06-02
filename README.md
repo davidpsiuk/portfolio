@@ -27,7 +27,10 @@ This repository contains a comprehensive collection of academic projects and res
 - Developed predictive models to forecast business process outcomes and optimize decision-making through machine learning classification techniques.  
 
 ### 🔹 Business Intelligence Project
-- Developed a Business Intelligence system for a retail chain. Designed a data warehouse, dimensional model, and interactive dashboards for sales analysis in Power BI.   
+- Developed a Business Intelligence system for a retail chain. Designed a data warehouse, dimensional model, and interactive dashboards for sales analysis in Power BI.
+
+### 🔹 Personal Project - Language Learning App
+Developed a full-stack language learning application as a web app and mobile app currently available for testing on Android and iOS. Built with React, including database integration for user data, external data sources, and API-based features.
 
 ---
 
@@ -69,11 +72,12 @@ the value of adapting visual deep learning models to neurophysiological data..
 **Programming Languages:** Python, R, SQL, DAX  
 **Statistical Analysis:** Panel data analysis, econometrics (FE, RE, OLS), hypothesis testing  
 **Machine Learning:** Classification (LogReg, Random Forest, ..), clustering (K-means, DBSCAN, ..), time series forecasting (Prophet, AutoML, ..) 
-**Deep Learning:** CNNs (ResNet, Inception, DenseNet, ..), TensorFlow, transfer learning  
-**Data Mining:** Segmentation, pattern recognition, feature engineering, preprocessing  
+**Deep Learning:** CNNs (ResNet, Inception, DenseNet, ..), TensorFlow, PyTorch, transfer learning  
+**Data Mining:** Segmentation, pattern recognition, feature engineering, preprocessing
 **Business Intelligence:** Data warehousing, dimensional modeling, ETL, interactive dashboards (Power BI)  
 **Business Process Management:** Value-added analysis, waste identification, optimization frameworks (Pareto, PICK)  
-**Tools & Platforms:** Jupyter Notebooks, Git, TensorFlow, scikit-learn, pandas, numpy, MongoDB, Neo4j  
+**Tools & Platforms:** Jupyter Notebooks, Git, TensorFlow, scikit-learn, pandas, numpy, MongoDB, Neo4j, Microsoft Fabric, Azure  
+**Software & App Development:** React, API integrations, database-backed user data, web and mobile app development
 
 ---
 
