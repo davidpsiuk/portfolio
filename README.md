@@ -77,7 +77,7 @@ the value of adapting visual deep learning models to neurophysiological data..
 **Business Intelligence:** Data warehousing, dimensional modeling, ETL, interactive dashboards (Power BI)  
 **Business Process Management:** Value-added analysis, waste identification, optimization frameworks (Pareto, PICK)  
 **Tools & Platforms:** Jupyter Notebooks, Git, TensorFlow, scikit-learn, pandas, numpy, MongoDB, Neo4j, Microsoft Fabric, Azure  
-**Software & App Development:** React, API integrations, database-backed user data, web and mobile app development
+**Software & App Development:** React, API integrations, database-backed user data, Firebase, Capacitor, web and mobile app development
 
 ---
 
